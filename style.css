@@ -47,6 +47,10 @@ p{
     color: hsl(215, 51%, 70%);
 }
 
+.svg{
+    height: 13px;
+}
+
 hr{
     margin: 20px 0;
     border-top: 2px;
