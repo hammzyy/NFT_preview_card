@@ -25,7 +25,14 @@ body{
     border-radius: 5px;
     margin-bottom: 20px;
 }
-.eq:hover{
+
+.view{
+    display: none;
+    background-color: hsl(178, 100%, 50%);
+}
+
+.view:hover{
+    display: visible;
     cursor: pointer;
 }
 
