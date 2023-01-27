@@ -24,16 +24,25 @@ body{
     border-radius: 5px;
     margin-bottom: 20px;
 }
+.eq:hover{
+    cursor: pointer;
+}
 
 h2{
     font-weight: 600;
     color: white;
 }
 
+h2:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+
 p{
     width: 250px;
     font-weight: 400;
     padding: 10px 0;
+    margin-bottom: 10px;
     color: hsl(215, 51%, 70%);
 }
 
@@ -67,6 +76,10 @@ hr{
 b{
     font-weight: 600;
     color: white;
+}
+b:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
 }
 
 .avi{
