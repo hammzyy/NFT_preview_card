@@ -50,3 +50,14 @@ hr{
     border-top: 2px;
     border-color: hsl(215, 32%, 27%);
 }
+
+.end{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+b{
+    font-weight: 600;
+    color: white;
+}
