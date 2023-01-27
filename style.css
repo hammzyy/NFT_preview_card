@@ -21,6 +21,8 @@ body{
 
 .eq{
     height: 250px;
+    border-radius: 5px;
+    margin-bottom: 20px;
 }
 
 h2{
@@ -52,6 +54,7 @@ hr{
 }
 
 .end{
+    max-width: 250px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,4 +63,12 @@ hr{
 b{
     font-weight: 600;
     color: white;
+}
+
+.avi{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin: 10px;
 }
